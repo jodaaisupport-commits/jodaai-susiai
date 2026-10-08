@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SusiAI Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 477,
+      "bodyTextHash": "57e67f0609dd9767671443142ebb94de2b9c925cd90656c625317e41f6021874",
+      "bodyTextPrefix": "SusiAI STUDIO Neues Projekt Chat Code Image Studio Video Studio ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SusiAI Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 470,
+      "bodyTextHash": "49d29bef8b15b498753596684355bb597f0310632f7a48729bb7bc5fea28902e",
+      "bodyTextPrefix": "SusiAI STUDIO Neues Projekt Chat Code Image Studio Video Studio ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
